@@ -25,6 +25,7 @@
 * roc_auc_score
 * recall_score
 * DummyClassifier
+* shap
 
 
 ## Общий вывод
